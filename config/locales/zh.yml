@@ -30,3 +30,9 @@ zh:
   label_checklist_done: 设置完成
   label_checklist_undone: 设置未完成
   label_checklist_updated: 检查列表项编辑
+  label_checklist_status: 检查表状态
+  label_checklist_status_done: 已完成
+  label_checklist_status_undone: 未完成
+  label_checklist_status: 检查表状态
+  label_checklist_is_default: 默认
+  field_is_for_tracker: 跟踪
